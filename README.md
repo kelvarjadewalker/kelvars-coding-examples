@@ -9,4 +9,4 @@ My YouTube Channel [YouTube](https://www.youtube.com/@KelvarDev)
 
 - [001 2D Player Movement](/001-2D-PlayerMovement/) : A Simple 2D Movement Tutorial in Unity
 - [002 5 Mistakes](/002-5-Mistakes/) :5 Unity Coding Habits Worth Rethinking
-- [002 5 Mistakes](/003-unity-pause/) :Creating a Simple Pause Screen in Unity 6
+- [003 Unity Pause](/003-unity-pause/) :Creating a Simple Pause Screen in Unity 6
