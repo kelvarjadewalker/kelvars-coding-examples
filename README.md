@@ -15,3 +15,4 @@ The links below are the companion scripts I used in my YouTube videos.
 - [002 5 Mistakes](/002-5-Mistakes/): 5 Unity Coding Habits Worth Rethinking
 - [003 Unity Pause](/003-unity-pause/): Creating a Simple Pause Screen in Unity 6
 - [004 Fix: Old Input Manager](/004-Fix-You-are-trying-to-read-Input-using-the-UnityEngineInput-class/): Fix: You are trying to read Input using the UnityEngineInput class
+- [005 Why Does My Unity Jump Button Fire Multiple Times](./005-unity-jump/) Fix for the triple jump when trying Unity's New Input System
